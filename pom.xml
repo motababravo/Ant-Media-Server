@@ -10,7 +10,7 @@
     <description>Ant Media Server supports RTMP, RTSP, MP4, HLS, WebRTC, Adaptive Streaming, etc.</description>
     <packaging>jar</packaging>
     <url>https://github.com/ant-media/Ant-Media-Server</url>
-    <version>${project.parent.version}</version>
+    <version>2.4.4</version>
     <organization>
         <name>Ant Media</name>
         <url>https://antmedia.io</url>
